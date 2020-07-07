@@ -8,22 +8,58 @@
 }
 
 body {
+    margin: 50px 25px 25px 25px;
+    padding: 0;
     font-family: Roboto Mono;
     background: #1a1a1a;
 }
 
+header {
+    width: 75vw;
+}
+
+h1 {
+    color: #a148b1;
+    font-weight: lighter;
+}
+
+h4 {
+    color: #dadada;
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+.last-h4 {
+    margin: 0 0 25px 0;
+}
+
 a {
     text-decoration: none;
-    font-size: 1.25em;
+    font-size: 1em;
     color: #8f419c;
+    transition: all ease 0.2s;
+}
+
+a:hover {
+    color: #a24bb1;
 }
 
 p {
     color: #dadada;
+    font-size: 0.75em;
 }
 
 img {
-    width: 35vw;
+    width: 25vw;
     margin: 0 0 25px 0;
-    box-shadow: 0 0 10px 0 black;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 1);
+    transition: all ease 0.3s;
+}
+
+img:hover {
+    width: 90vh;
+}
+
+.dropdown-container {
+    width: 75vw;
 }
