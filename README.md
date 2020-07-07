@@ -1,2 +1,3 @@
-# skyrim_thief_cache_locations
- All the thief cache locations in Skyrim
+# Skyrim Thief Cache Locations
+
+All the thief cache locations in Skyrim
