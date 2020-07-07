@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+/* color 1 - #1a1a1a;*/
+/* color 2 - #333333;*/
+
+* {
+    font-family: Roboto Mono;
+}
+
+body {
+    font-family: Roboto Mono;
+    background: #1a1a1a;
+}
